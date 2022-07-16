@@ -4,7 +4,9 @@
 
 2. Topic Modeling: LSA, LDA
 
+
 3.Chatbot: intent extraction
+
 
 
 ![Screenshot from 2022-07-16 10-25-44](https://user-images.githubusercontent.com/63880269/179349147-1236dfda-737e-4fcc-a487-ff02c9176c1f.png)
